@@ -17,6 +17,7 @@ border: none;
 padding: 10px 20px;
 border-radius: 5px;
 cursor: pointer;
+background-color: #52b788; /* corrigido */
 }
 button:hover {
 background-color: #1b4332;
